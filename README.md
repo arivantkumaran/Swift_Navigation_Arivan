@@ -13,5 +13,5 @@ the value F(n) otherwise.
 In Command Line, in directory of file type the following. Third argument is number of Fibonacci numbers (n) to be printed.
 
 ```
-User$ python swiftnav.py <n>
+$ python swiftnav.py <n>
 ```
